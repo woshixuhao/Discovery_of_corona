@@ -1,0 +1,7 @@
+size_pop: 500
+generation_num: 200
+distinction_epoch: 5
+max_terms: 4
+use_parallel_computing: False
+seek_best_initial: True
+epi: 0.2
