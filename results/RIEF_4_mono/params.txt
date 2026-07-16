@@ -1,0 +1,7 @@
+size_pop: 200
+generation_num: 100
+distinction_epoch: 5
+max_terms: 4
+use_parallel_computing: False
+seek_best_initial: True
+mono penalty: 10
