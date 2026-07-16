@@ -29,7 +29,7 @@ We encode candidate formulas as **computational graphs**:
 ### Variable convention (as used in scripts)
 
 * `x1`: electric field **E**
-* `x2`: spacing **d**
+* `x2`: **d**
 * `x3`: **N**
 * `x4`: **I** (present in the dataset; often treated as a fixed input)
 
